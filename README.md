@@ -12,4 +12,4 @@
 Criando uma **Formulário** - HTML5, CSS3 e JavaScript. 
 
 ### Projeto Prático
-<img src='./spotify-clone/img/spotify.png ' width='100%'/>
+<img src='./válidar-formulário/img/form.png ' width='100%'/>
