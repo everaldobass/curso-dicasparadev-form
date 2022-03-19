@@ -12,4 +12,4 @@
 Criando uma **Formulário** - HTML5, CSS3 e JavaScript. 
 
 ### Projeto Prático
-<img src='./dicasparadev-form/img/form.png ' width='100%'/>
+<img src='./formulario/img/form.png ' width='100%'/>
